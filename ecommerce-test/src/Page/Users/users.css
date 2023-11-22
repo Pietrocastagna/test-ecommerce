@@ -1,0 +1,44 @@
+.content-Users{
+
+    height: 200vh;
+    margin-top: -5%;
+    display: flex;
+    padding-top: 140px;
+}
+
+.left-side-Users-close{
+    width: 14%;
+}
+
+.left-side-Users-open{
+    width: 0%;
+}
+
+.center-side-Users{
+    width: 100%;
+}
+
+.right-side-Users{
+    width: 100px;
+}
+
+.right-side-Users-close{
+    width: 40%;
+}
+
+.right-side-Users-open{
+    width: 0%;
+}
+
+
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #fff;
+    margin-top: 5%;
+    }
+    
+
+

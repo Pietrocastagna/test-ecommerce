@@ -1,0 +1,45 @@
+.content-table{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    background-color:#000;
+  
+
+
+  }
+
+  th{
+    background-color: #000;
+    border: 0.1px solid #fff;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    height: 40px;
+
+
+  }
+  
+  td{
+    border: 0.1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #900000;
+  }
+
+  .action-column{
+    text-align: center;
+  }
+
+  .testo-not-found{
+    color: #fff;
+    margin-left: 10%;
+  }

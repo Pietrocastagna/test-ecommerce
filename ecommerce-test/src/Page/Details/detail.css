@@ -1,0 +1,112 @@
+.content-detail{
+    background-image: url("./../../asset/backgroundHome.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200vh;
+    margin-top: -4%;
+    display: flex;
+    padding-top: 140px;
+}
+
+.left-side-detail-close{
+    width: 14%;
+}
+
+.left-side-detail-open{
+    width: 0%;
+}
+
+.center-side-detail{
+    width: 100%;
+}
+
+.right-side-detail{
+    width: 100px;
+}
+
+.right-side-detail-close{
+    width: 40%;
+}
+
+.right-side-detail-open{
+    width: 0%;
+}
+
+
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #fff;
+    margin-top: 5%;
+    }
+
+    .content-div-product-detail{
+        background-color: rgba(90, 90, 90, 0.562);
+        margin: 4% 2%;
+        width: 95%;
+        border-radius: 10px;
+        height: max-content;
+        /* min-height: 50px; */
+        padding: 10px 10px 10px 10px;
+    } 
+
+    .container-image-and-description{
+        display: flex;
+        padding: 20px 20px;
+    }
+    
+    .container-image-detail{
+        min-height: 300px;
+        height: 40%;
+        width: 40%;
+    }
+    .img-product-details{
+        height: 100%;
+        width: 100%;
+    }
+
+
+    .content-bigdescrizione{
+        background-color: #000;
+        width: 99%;
+        color: #fff;
+        padding: 5px 5px;
+        text-align: center;
+        justify-content: center;
+
+    }
+    .container-description-small-detail{
+        margin-left: 2%;
+        background-color: #000;
+        width: 60%;
+        border-radius: 5px;
+    }
+
+    .container-title-details{
+        color: #fff;
+        text-align: center;
+        font-size: 24px;
+        padding-top: 20px;
+    }
+
+    .container-description-small-details{
+        color: #fff;
+        padding: 10px 10px;
+        max-height: 150px;
+        height: 100px;
+        overflow: scroll;
+        /* background-color: red; */
+        margin-top: 40px;
+        width: 87%;
+        margin-left: 5%;
+    }
+
+    .container-button-add-details-xs{
+        float: right;
+        margin-right: 5%;
+        margin-top: 3%;
+    }
+

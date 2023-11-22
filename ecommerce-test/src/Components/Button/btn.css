@@ -1,0 +1,166 @@
+.principal{
+    background-color: #ff0000d7;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 120px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    font-weight: 800;
+}
+
+.principal-disabled{
+    background-color: #ff0000d7;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 120px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    font-weight: 800;
+}
+
+.sideBar{
+    height: 60px;
+    width: 60px;
+    margin: 3px 3px 3px 3px;
+    background-color: #000000ab;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10px;
+}
+
+.sideBar:hover{
+  
+    background-color: #ff0000d7;
+   
+}
+
+.sideBar-disabled{
+    height: 60px;
+    width: 60px;
+    margin: 3px 3px 3px 3px;
+    background-color: #ffffffab;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10px;
+}
+
+
+
+.sideBar-special{
+    height: 60px;
+    width: 60px;
+    margin: 3px 3px 3px 3px;
+    background-color: #ff0000d7;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10px;
+}
+
+.sideBar-special:hover{
+  
+    background-color: #ff0000d7;
+   
+}
+
+.sideBar-special-disabled{
+    height: 60px;
+    width: 60px;
+    margin: 3px 3px 3px 3px;
+    background-color: #ffffffab;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10px;
+}
+
+.gestione-modalCart{
+    background-color: black;
+    height: 60px;
+    width: 60px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+}
+
+.gestione-modalCart:hover{
+    background-color: #ff0000d7;
+}
+
+.gestione-modalCart-disabled{
+    background-color: #ffffffab;
+    height: 60px;
+    width: 60px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+}
+
+
+.gestione-modalCart-special{
+    background-color: #ff0000d7;
+    height: 60px;
+    width: 60px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+}
+
+.gestione-modalCart-special:hover{
+    background-color: #ff0000d7;
+}
+
+.gestione-modalCart-special-disabled{
+    background-color: #ffffffab;
+    height: 60px;
+    width: 60px;
+    margin-right: 5px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+}
+
+.btn-product-card{
+    background-color: #ff0000d7;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 110px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    font-weight: 800;
+    margin-right: 8px;
+}
+
+.btn-product-cart{
+    background-color: black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 110px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    font-weight: 800;
+}
+
+.search-button{
+    background-color: #ff0000d7;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 82px;
+    color: #fff;
+    border-radius: 4px;
+    border: none;
+    font-weight: 800;
+    margin-right: 8px;
+    margin-left: 10px;
+    margin-top: 2px;
+    height: 35px;
+}

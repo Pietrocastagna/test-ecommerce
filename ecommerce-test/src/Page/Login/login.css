@@ -1,0 +1,114 @@
+.content-loginPage{
+    /* background-color: red;   */
+}
+
+.container-close-loginPage{
+    float: right;
+    height: 0px;
+}
+
+.border-red-loginPage{
+    border: solid 2px #ff0000d7;
+    border-radius: 10px;
+    padding: 15px 15px;
+    min-height: 90%;
+    background-color: #000;
+}
+
+.title-loginPage{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: -30px;
+}
+
+.contetn-input-loginPage{
+    /* display: flex; */
+    margin-left: 10%;
+}
+
+.input-left-loginPage{
+    width: 50%;
+    /* display: flex; */
+    justify-content: center;
+    margin-left: 20%;
+}
+
+
+
+
+.content-label{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 12px;
+}
+
+.input-loginPage{
+    width:90%;
+    height: 30px;
+}
+
+.input-textarea-loginPage{
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 10%;
+}
+
+.textare-loginPage-small{
+    width: 90%;
+    height: 50px;
+}
+
+.textare-loginPage-big{
+    width: 90%;
+    height: 100px;
+}
+
+.content-input-file{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.input-file{
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+  }
+
+.custom-file-input::before {
+    content: 'Select a file';
+    display: inline-block;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    white-space: nowrap;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 10pt;
+  }
+  .custom-file-input:hover::before {
+    border-color: black;
+  }
+  .custom-file-input:active::before {
+    background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+  }
+
+  .content-submit-button{
+    margin-top: 4%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 8%;
+    justify-content: space-between;
+  }
+
+ 
